@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Wojciek Bartosz
+title: Wojciek Bartosz | Matma i Excel
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: wojciek.be@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
