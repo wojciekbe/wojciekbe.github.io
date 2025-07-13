@@ -8,7 +8,6 @@ tags:
   - template
   - jekyll
   - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
@@ -104,7 +103,6 @@ exclude: [
   'node_modules',
   'initpost.sh',
   'Gemfile',
-  'Gemfile.lock',
   'gulpfile.js',
   'README.md'
 ]

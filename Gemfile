@@ -12,3 +12,4 @@ gem "jekyll", "~> 3.10.0"
 gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
+gem "github-pages", group: :jekyll_plugins
